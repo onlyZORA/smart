@@ -1,0 +1,51 @@
+body{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.dates{
+    margin-left: 10px;
+}
+
+.work{
+    
+    padding-left: 120px;
+    
+
+    
+}
+
+.work-head{
+    padding-left: 20px;
+    
+}
+
+.checked {
+    color: #FFD700;
+}
+
+.heart{
+    color:red;
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.img-text{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.rating{
+    padding-left: 10px;
+}
+
+.hear{
+    color: red;font-size: 150%;
+}
